@@ -19,7 +19,6 @@ void trigger_ADC_conversion(void);
 _Bool ADC_busy(void);
 uint16_t read_ADC_value(void);
 
-
 // MAIN FUNCTION -------------------------------------------------------------|
 
 void main(void)
